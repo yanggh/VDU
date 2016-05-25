@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+recv-sr155-dev: p3p1
+send-vrs-dev: p3p2
+timeout: 180
+ip: 192.168.40.42
+port: 2033
+log: 
+  level: info
+  mask: 0
+...

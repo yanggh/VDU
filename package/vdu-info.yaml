@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+vdu:
+  version: 1.00.BUILDSTR
+  config-path: /usr/local/etc/vdu/
+  set-config-path: 0
+  executives:
+  - exec: 1
+    cmd: vdu
+    status: daemon,keepalive
+...
